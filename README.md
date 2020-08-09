@@ -3,7 +3,7 @@
 ## I'm a Developer, and Son!
 - I'm currently working on many projects!
 - I'm currently learning how to intergrate AI in to a discord bot.
-- I'm working for [Citizens Studios](https://citizens.studio/)!
+- I'm working for [Headway](https://discord.gg/hBfmxVt)!
 - 2020 Goals: To finish my Open Source AI discord bot.
 - Fun Fact: I started coding when I was 8.
 
