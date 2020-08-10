@@ -1,9 +1,7 @@
 ### Hi there, I'm [Max Thakur][website]!
 
 ## I'm a Developer, and Son!
-- I'm currently working on many projects!
-- I'm currently learning how to intergrate AI in to a discord bot.
-- I'm working for [Headway](https://discord.gg/hBfmxVt)!
+- I'm working on random projects!
 - 2020 Goals: To finish my Open Source AI discord bot.
 - Fun Fact: I started coding when I was 8.
 
