@@ -14,19 +14,6 @@
 [<img align="left" alt="Discord Server | discord.gg/zxtTyVS" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.4.1/icons/discord.svg" />][discord]
 
 <br>
-<br>
-
-### Recent Activity
-<!--START_SECTION:activity-->
-1. 🎉 Merged PR [#2](https://github.com//MaxThakurCodes/Open-Source-Discord-Bot/pull/2) in [MaxThakurCodes/Open-Source-Discord-Bot](https://github.com//MaxThakurCodes/Open-Source-Discord-Bot)
-2. 💪 Opened PR [#2](https://github.com//MaxThakurCodes/Open-Source-Discord-Bot/pull/2) in [MaxThakurCodes/Open-Source-Discord-Bot](https://github.com//MaxThakurCodes/Open-Source-Discord-Bot)
-3. 💪 Opened PR [#95](https://github.com//SustainableUrbanDesign/app/pull/95) in [SustainableUrbanDesign/app](https://github.com//SustainableUrbanDesign/app)
-4. 💪 Opened PR [#94](https://github.com//SustainableUrbanDesign/app/pull/94) in [SustainableUrbanDesign/app](https://github.com//SustainableUrbanDesign/app)
-5. 💪 Opened PR [#93](https://github.com//SustainableUrbanDesign/app/pull/93) in [SustainableUrbanDesign/app](https://github.com//SustainableUrbanDesign/app)
-<!--END_SECTION:activity-->
-
-<br>
-<br>
 
 ### Languages and Tools I use:
 <img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
@@ -45,8 +32,6 @@
 <br>
 <br>
 
-
-
 ---
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
@@ -55,7 +40,26 @@
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MaxThakurCodes&layout=compact&theme=bear" />
 </a>
+<br>
 
+---
+
+### Now Playing :headphones:
+[<img src="https://novatorem-git-master.maxthakur.vercel.app/api/spotify-playing" alt="Spotify Now Playing" />][spotify]
+---
+
+<details>
+ <summary> <strong>Recent Activity</strong> </summary>
+<!--START_SECTION:activity-->
+1. 🎉 Merged PR [#2](https://github.com//MaxThakurCodes/Open-Source-Discord-Bot/pull/2) in [MaxThakurCodes/Open-Source-Discord-Bot](https://github.com//MaxThakurCodes/Open-Source-Discord-Bot)<br><br>
+2. 💪 Opened PR [#2](https://github.com//MaxThakurCodes/Open-Source-Discord-Bot/pull/2) in [MaxThakurCodes/Open-Source-Discord-Bot](https://github.com//MaxThakurCodes/Open-Source-Discord-Bot)<br><br>
+3. 💪 Opened PR [#95](https://github.com//SustainableUrbanDesign/app/pull/95) in [SustainableUrbanDesign/app](https://github.com//SustainableUrbanDesign/app)<br><br>
+4. 💪 Opened PR [#94](https://github.com//SustainableUrbanDesign/app/pull/94) in [SustainableUrbanDesign/app](https://github.com//SustainableUrbanDesign/app)<br><br>
+5. 💪 Opened PR [#93](https://github.com//SustainableUrbanDesign/app/pull/93) in [SustainableUrbanDesign/app](https://github.com//SustainableUrbanDesign/app)<br><br>
+<!--END_SECTION:activity-->
+
+
+</details>
 
 
 [website]: https://maxthakur.com
@@ -63,3 +67,4 @@
 [youtube]: https://www.youtube.com/channel/UCFEgb-Cz19prUMuAsp35xDw
 [instagram]: https://instagram.com/MaxThakur31
 [discord]: https://discord.gg/zxtTyVS
+[spotify]: https://open.spotify.com/user/thedj12345678?si=qQXHf6CYSsCZohuN-pqzlw
