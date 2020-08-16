@@ -51,11 +51,11 @@
 <details>
  <summary> <strong>Recent Activity</strong> </summary>
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#2](https://github.com//MaxThakurCodes/Open-Source-Discord-Bot/pull/2) in [MaxThakurCodes/Open-Source-Discord-Bot](https://github.com//MaxThakurCodes/Open-Source-Discord-Bot)<br><br>
-2. 💪 Opened PR [#2](https://github.com//MaxThakurCodes/Open-Source-Discord-Bot/pull/2) in [MaxThakurCodes/Open-Source-Discord-Bot](https://github.com//MaxThakurCodes/Open-Source-Discord-Bot)<br><br>
-3. 💪 Opened PR [#95](https://github.com//SustainableUrbanDesign/app/pull/95) in [SustainableUrbanDesign/app](https://github.com//SustainableUrbanDesign/app)<br><br>
-4. 💪 Opened PR [#94](https://github.com//SustainableUrbanDesign/app/pull/94) in [SustainableUrbanDesign/app](https://github.com//SustainableUrbanDesign/app)<br><br>
-5. 💪 Opened PR [#93](https://github.com//SustainableUrbanDesign/app/pull/93) in [SustainableUrbanDesign/app](https://github.com//SustainableUrbanDesign/app)<br><br>
+1. 🎉 Merged PR [#2](https://github.com//MaxThakurCodes/Open-Source-Discord-Bot/pull/2) in [MaxThakurCodes/Open-Source-Discord-Bot](https://github.com//MaxThakurCodes/Open-Source-Discord-Bot)
+2. 💪 Opened PR [#2](https://github.com//MaxThakurCodes/Open-Source-Discord-Bot/pull/2) in [MaxThakurCodes/Open-Source-Discord-Bot](https://github.com//MaxThakurCodes/Open-Source-Discord-Bot)
+3. 💪 Opened PR [#95](https://github.com//SustainableUrbanDesign/app/pull/95) in [SustainableUrbanDesign/app](https://github.com//SustainableUrbanDesign/app)
+4. 💪 Opened PR [#94](https://github.com//SustainableUrbanDesign/app/pull/94) in [SustainableUrbanDesign/app](https://github.com//SustainableUrbanDesign/app)
+5. 💪 Opened PR [#93](https://github.com//SustainableUrbanDesign/app/pull/93) in [SustainableUrbanDesign/app](https://github.com//SustainableUrbanDesign/app)
 <!--END_SECTION:activity-->
 
 
