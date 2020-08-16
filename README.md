@@ -34,7 +34,13 @@
 
 ---
 
-<img align="left" alt="My Github Stats" src="https://github-readme-stats.vercel.app/api?username=MaxThakurCodes&show_icons=true&hide_border=true" />
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=MaxThakurCodes&show_icons=true&include_all_commits=true&theme=radical" alt="Max's github stats" />
+</a>
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MaxThakurCodes&layout=compact&theme=radical" />
+</a>
+
 
 
 [website]: https://maxthakur.com
