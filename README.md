@@ -35,18 +35,9 @@
 
 ---
 
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=MaxThakurCodes&show_icons=true&include_all_commits=true&theme=bear" alt="Max's github stats" />
-</a>
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MaxThakurCodes&layout=compact&theme=bear" />
-</a>
-<br>
-
----
-
 ### Now Playing :headphones:
 [<img src="https://novatorem-git-master.maxthakur.vercel.app/api/spotify-playing" alt="Spotify Now Playing" />][spotify]
+
 ---
 
 <details>
@@ -61,7 +52,24 @@
 <!--END_SECTION:activity-->
 
 </details>
+<details>
+<summary> <strong>Time Stats</strong> </summary>
+ 
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
 
+</details>
+<details>
+<summary> <strong>GitHub Stats</strong> </summary>
+
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=MaxThakurCodes&show_icons=true&include_all_commits=true&theme=bear" alt="Max's github stats" />
+</a>
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MaxThakurCodes&layout=compact&theme=bear" />
+</a>
+
+</details>
 
 [website]: https://maxthakur.com
 [twitter]: https://twitter.com/MaxThakurCodes
