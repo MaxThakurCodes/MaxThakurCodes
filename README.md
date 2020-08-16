@@ -11,7 +11,7 @@
 ### Connect with me:
 
 [<img align="left" alt="maxthakur.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
-[<img align="left" alt="Discord Server" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.4.1/icons/discord.svg" />][discord]
+[<img align="left" alt="Discord Server | discord.gg/zxtTyVS" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.4.1/icons/discord.svg" />][discord]
 
 <br>
 
