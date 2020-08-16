@@ -1,6 +1,7 @@
 ### Hi there, I'm [Max Thakur][website]!
 [<img align="left" alt="MaxThakurCodes | Twitter" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" />][twitter] [<img align="left" alt="MaxThakur31 | Instagram" src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" />][instagram] 
 [<img align="left" alt="MaxThakurCodes | Youtube" src="https://img.shields.io/badge/youtube-%23FF0000.svg?&style=for-the-badge&logo=youtube&logoColor=white" />][youtube]
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=maxThakurCodes&style=flat-square" alt="maxthakurcodes" /> </p>
  <br>
 
 ## I'm a Developer, and Son!
