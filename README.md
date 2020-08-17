@@ -47,7 +47,7 @@
 1. 🎉 Merged PR [#2](https://github.com//MaxThakurCodes/Open-Source-Discord-Bot/pull/2) in [MaxThakurCodes/Open-Source-Discord-Bot](https://github.com//MaxThakurCodes/Open-Source-Discord-Bot)
 2. 💪 Opened PR [#2](https://github.com//MaxThakurCodes/Open-Source-Discord-Bot/pull/2) in [MaxThakurCodes/Open-Source-Discord-Bot](https://github.com//MaxThakurCodes/Open-Source-Discord-Bot)
 3. 💪 Opened PR [#95](https://github.com//SustainableUrbanDesign/app/pull/95) in [SustainableUrbanDesign/app](https://github.com//SustainableUrbanDesign/app)
-4. 💪 Opened PR [#94](https://github.com//SustainableUrbanDesign/app/pull/94) in [SustainableUrbanDesign/app](https://github.com//SustainableUrbanDesign/app)
+4. undefined
 5. undefined
 <!--END_SECTION:activity-->
 
