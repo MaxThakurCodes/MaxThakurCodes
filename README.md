@@ -5,8 +5,8 @@
  <br>
 
 ## I'm a Developer, and Son!
-- I'm working on random projects!
-- 2020 Goals: To finish my Open Source AI discord bot.
+- I'm working on Everse App!
+- 2020 Goals: To finish for the most part of Everse App.
 - Fun Fact: I started coding when I was 8.
 
 ### Connect with me:
