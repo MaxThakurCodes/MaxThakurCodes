@@ -44,11 +44,11 @@
  <summary> <strong>Recent Activity</strong> </summary>
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#2](https://github.com//MaxThakurCodes/friend-finder/pull/2) in [MaxThakurCodes/friend-finder](https://github.com//MaxThakurCodes/friend-finder)
+1. 🎉 Merged PR [#3](https://github.com//MaxThakurCodes/friend-finder/pull/3) in [MaxThakurCodes/friend-finder](https://github.com//MaxThakurCodes/friend-finder)
 2. 🗣 Commented on [#1](https://github.com//MaxThakurCodes/friend-finder/issues/1) in [MaxThakurCodes/friend-finder](https://github.com//MaxThakurCodes/friend-finder)
-3. 🗣 Commented on [#1](https://github.com//MaxThakurCodes/friend-finder/issues/1) in [MaxThakurCodes/friend-finder](https://github.com//MaxThakurCodes/friend-finder)
+3. ❗️ Closed issue [#1](https://github.com//MaxThakurCodes/friend-finder/issues/1) in [MaxThakurCodes/friend-finder](https://github.com//MaxThakurCodes/friend-finder)
 4. 🗣 Commented on [#1](https://github.com//MaxThakurCodes/friend-finder/issues/1) in [MaxThakurCodes/friend-finder](https://github.com//MaxThakurCodes/friend-finder)
-5. undefined
+5. 🎉 Merged PR [#2](https://github.com//MaxThakurCodes/friend-finder/pull/2) in [MaxThakurCodes/friend-finder](https://github.com//MaxThakurCodes/friend-finder)
 <!--END_SECTION:activity-->
 
 </details>
