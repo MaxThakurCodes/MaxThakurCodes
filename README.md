@@ -44,10 +44,10 @@
  <summary> <strong>Recent Activity</strong> </summary>
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#2](https://github.com//MaxThakurCodes/Open-Source-Discord-Bot/pull/2) in [MaxThakurCodes/Open-Source-Discord-Bot](https://github.com//MaxThakurCodes/Open-Source-Discord-Bot)
-2. 💪 Opened PR [#2](https://github.com//MaxThakurCodes/Open-Source-Discord-Bot/pull/2) in [MaxThakurCodes/Open-Source-Discord-Bot](https://github.com//MaxThakurCodes/Open-Source-Discord-Bot)
-3. 💪 Opened PR [#95](https://github.com//SustainableUrbanDesign/app/pull/95) in [SustainableUrbanDesign/app](https://github.com//SustainableUrbanDesign/app)
-4. undefined
+1. 🎉 Merged PR [#2](https://github.com//MaxThakurCodes/friend-finder/pull/2) in [MaxThakurCodes/friend-finder](https://github.com//MaxThakurCodes/friend-finder)
+2. 🗣 Commented on [#1](https://github.com//MaxThakurCodes/friend-finder/issues/1) in [MaxThakurCodes/friend-finder](https://github.com//MaxThakurCodes/friend-finder)
+3. 🗣 Commented on [#1](https://github.com//MaxThakurCodes/friend-finder/issues/1) in [MaxThakurCodes/friend-finder](https://github.com//MaxThakurCodes/friend-finder)
+4. 🗣 Commented on [#1](https://github.com//MaxThakurCodes/friend-finder/issues/1) in [MaxThakurCodes/friend-finder](https://github.com//MaxThakurCodes/friend-finder)
 5. undefined
 <!--END_SECTION:activity-->
 
