@@ -44,11 +44,11 @@
  <summary> <strong>Recent Activity</strong> </summary>
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#4](https://github.com/MaxThakurCodes/friend-finder/pull/4) in [MaxThakurCodes/friend-finder](https://github.com/MaxThakurCodes/friend-finder)
-2. 🎉 Merged PR [#1](https://github.com/EssentialsDiscordBot/Essentials-js/pull/1) in [EssentialsDiscordBot/Essentials-js](https://github.com/EssentialsDiscordBot/Essentials-js)
-3. 🗣 Commented on [#82](https://github.com/Marten4n6/EvilOSX/issues/82) in [Marten4n6/EvilOSX](https://github.com/Marten4n6/EvilOSX)
-4. 🎉 Merged PR [#3](https://github.com/MaxThakurCodes/friend-finder/pull/3) in [MaxThakurCodes/friend-finder](https://github.com/MaxThakurCodes/friend-finder)
-5. 🗣 Commented on [#1](https://github.com/MaxThakurCodes/friend-finder/issues/1) in [MaxThakurCodes/friend-finder](https://github.com/MaxThakurCodes/friend-finder)
+1. 🎉 Merged PR [#2](https://github.com/MaxThakurCodes/boyfriendbot/pull/2) in [MaxThakurCodes/boyfriendbot](https://github.com/MaxThakurCodes/boyfriendbot)
+2. 🎉 Merged PR [#4](https://github.com/MaxThakurCodes/friend-finder/pull/4) in [MaxThakurCodes/friend-finder](https://github.com/MaxThakurCodes/friend-finder)
+3. 🎉 Merged PR [#1](https://github.com/EssentialsDiscordBot/Essentials-js/pull/1) in [EssentialsDiscordBot/Essentials-js](https://github.com/EssentialsDiscordBot/Essentials-js)
+4. 🗣 Commented on [#82](https://github.com/Marten4n6/EvilOSX/issues/82) in [Marten4n6/EvilOSX](https://github.com/Marten4n6/EvilOSX)
+5. 🎉 Merged PR [#3](https://github.com/MaxThakurCodes/friend-finder/pull/3) in [MaxThakurCodes/friend-finder](https://github.com/MaxThakurCodes/friend-finder)
 <!--END_SECTION:activity-->
 
 </details>
