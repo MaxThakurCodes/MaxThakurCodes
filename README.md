@@ -5,7 +5,7 @@
  <br>
 
 ## I'm a Developer, and Son!
-- I'm working on Everse App!
+- I'm working on nothing much!
 - 2020 Goals: To finish for the most part of Everse App.
 - Fun Fact: I started coding when I was 8.
 
