@@ -55,13 +55,6 @@
 
 </details>
 <details>
-<summary> <strong>Time Stats</strong> </summary>
- 
-<!--START_SECTION:waka-->
-<!--END_SECTION:waka-->
-
-</details>
-<details>
 <summary> <strong>GitHub Stats</strong> </summary>
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
