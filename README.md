@@ -6,7 +6,7 @@
 
 ## I'm a Developer, and Son!
 - I'm working on nothing much!
-- 2020 Goals: To finish for the most part of Everse App.
+- 2020 Goals: To finish CableChat.
 - Fun Fact: I started coding when I was 8.
 
 ### Connect with me:
