@@ -59,9 +59,9 @@
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=MaxThakurCodes&show_icons=true&include_all_commits=true&theme=bear" alt="Max's github stats" />
-</a><br>
+</a>&nbsp;&nbsp;
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MaxThakurCodes&layout=compact&theme=bear" />
+  <img align="center" style="margin-left: 45px;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MaxThakurCodes&layout=compact&theme=bear" />
 </a>
 
 </details>
