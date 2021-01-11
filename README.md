@@ -53,11 +53,11 @@
  <summary> <strong>Recent Activity</strong> </summary>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#1](https://github.com/ZeroedInOnTech/1.8.8/issues/1) in [ZeroedInOnTech/1.8.8](https://github.com/ZeroedInOnTech/1.8.8)
-2. 🎉 Merged PR [#5](https://github.com/MaxThakurCodes/friend-finder/pull/5) in [MaxThakurCodes/friend-finder](https://github.com/MaxThakurCodes/friend-finder)
-3. 🎉 Merged PR [#2](https://github.com/MaxThakurCodes/boyfriendbot/pull/2) in [MaxThakurCodes/boyfriendbot](https://github.com/MaxThakurCodes/boyfriendbot)
-4. 🎉 Merged PR [#4](https://github.com/MaxThakurCodes/friend-finder/pull/4) in [MaxThakurCodes/friend-finder](https://github.com/MaxThakurCodes/friend-finder)
-5. 🎉 Merged PR [#1](https://github.com/EssentialsDiscordBot/Essentials-js/pull/1) in [EssentialsDiscordBot/Essentials-js](https://github.com/EssentialsDiscordBot/Essentials-js)
+1. ❗️ Reopened issue [#1](https://github.com/MaxThakurCodes/Discord-Token-Checker/issues/1) in [MaxThakurCodes/Discord-Token-Checker](https://github.com/MaxThakurCodes/Discord-Token-Checker)
+2. ❗️ Closed issue [#1](https://github.com/MaxThakurCodes/Discord-Token-Checker/issues/1) in [MaxThakurCodes/Discord-Token-Checker](https://github.com/MaxThakurCodes/Discord-Token-Checker)
+3. 🗣 Commented on [#1](https://github.com/MaxThakurCodes/Discord-Token-Checker/issues/1) in [MaxThakurCodes/Discord-Token-Checker](https://github.com/MaxThakurCodes/Discord-Token-Checker)
+4. ❗️ Opened issue [#1](https://github.com/MaxThakurCodes/Discord-Token-Checker/issues/1) in [MaxThakurCodes/Discord-Token-Checker](https://github.com/MaxThakurCodes/Discord-Token-Checker)
+5. 🗣 Commented on [#1](https://github.com/ZeroedInOnTech/1.8.8/issues/1) in [ZeroedInOnTech/1.8.8](https://github.com/ZeroedInOnTech/1.8.8)
 <!--END_SECTION:activity-->
 
 </details>
