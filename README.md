@@ -77,5 +77,5 @@
 [twitter]: https://twitter.com/MaxThakurCodes
 [youtube]: https://www.youtube.com/channel/UCFEgb-Cz19prUMuAsp35xDw
 [instagram]: https://instagram.com/MaxThakur31
-[discord]: https://discord.gg/zxtTyVS
+[discord]: https://discord.gg/JhGXwFVdsM
 [spotify]: https://open.spotify.com/user/thedj12345678?si=qQXHf6CYSsCZohuN-pqzlw
