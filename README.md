@@ -53,11 +53,11 @@
  <summary> <strong>Recent Activity</strong> </summary>
 
 <!--START_SECTION:activity-->
-1. ❗️ Reopened issue [#1](https://github.com/MaxThakurCodes/Discord-Token-Checker/issues/1) in [MaxThakurCodes/Discord-Token-Checker](https://github.com/MaxThakurCodes/Discord-Token-Checker)
-2. ❗️ Closed issue [#1](https://github.com/MaxThakurCodes/Discord-Token-Checker/issues/1) in [MaxThakurCodes/Discord-Token-Checker](https://github.com/MaxThakurCodes/Discord-Token-Checker)
-3. 🗣 Commented on [#1](https://github.com/MaxThakurCodes/Discord-Token-Checker/issues/1) in [MaxThakurCodes/Discord-Token-Checker](https://github.com/MaxThakurCodes/Discord-Token-Checker)
-4. ❗️ Opened issue [#1](https://github.com/MaxThakurCodes/Discord-Token-Checker/issues/1) in [MaxThakurCodes/Discord-Token-Checker](https://github.com/MaxThakurCodes/Discord-Token-Checker)
-5. 🗣 Commented on [#1](https://github.com/ZeroedInOnTech/1.8.8/issues/1) in [ZeroedInOnTech/1.8.8](https://github.com/ZeroedInOnTech/1.8.8)
+1. 🗣 Commented on [#1](https://github.com/MaxThakurCodes/Discord-Token-Checker/issues/1) in [MaxThakurCodes/Discord-Token-Checker](https://github.com/MaxThakurCodes/Discord-Token-Checker)
+2. ❗️ Reopened issue [#1](https://github.com/MaxThakurCodes/Discord-Token-Checker/issues/1) in [MaxThakurCodes/Discord-Token-Checker](https://github.com/MaxThakurCodes/Discord-Token-Checker)
+3. ❗️ Closed issue [#1](https://github.com/MaxThakurCodes/Discord-Token-Checker/issues/1) in [MaxThakurCodes/Discord-Token-Checker](https://github.com/MaxThakurCodes/Discord-Token-Checker)
+4. 🗣 Commented on [#1](https://github.com/MaxThakurCodes/Discord-Token-Checker/issues/1) in [MaxThakurCodes/Discord-Token-Checker](https://github.com/MaxThakurCodes/Discord-Token-Checker)
+5. ❗️ Opened issue [#1](https://github.com/MaxThakurCodes/Discord-Token-Checker/issues/1) in [MaxThakurCodes/Discord-Token-Checker](https://github.com/MaxThakurCodes/Discord-Token-Checker)
 <!--END_SECTION:activity-->
 
 </details>
