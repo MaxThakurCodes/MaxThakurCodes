@@ -53,11 +53,11 @@
  <summary> <strong>Recent Activity</strong> </summary>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#1](https://github.com/MaxThakurCodes/Discord-Token-Checker/issues/1) in [MaxThakurCodes/Discord-Token-Checker](https://github.com/MaxThakurCodes/Discord-Token-Checker)
-2. ❗️ Reopened issue [#1](https://github.com/MaxThakurCodes/Discord-Token-Checker/issues/1) in [MaxThakurCodes/Discord-Token-Checker](https://github.com/MaxThakurCodes/Discord-Token-Checker)
-3. ❗️ Closed issue [#1](https://github.com/MaxThakurCodes/Discord-Token-Checker/issues/1) in [MaxThakurCodes/Discord-Token-Checker](https://github.com/MaxThakurCodes/Discord-Token-Checker)
-4. 🗣 Commented on [#1](https://github.com/MaxThakurCodes/Discord-Token-Checker/issues/1) in [MaxThakurCodes/Discord-Token-Checker](https://github.com/MaxThakurCodes/Discord-Token-Checker)
-5. ❗️ Opened issue [#1](https://github.com/MaxThakurCodes/Discord-Token-Checker/issues/1) in [MaxThakurCodes/Discord-Token-Checker](https://github.com/MaxThakurCodes/Discord-Token-Checker)
+1. 💪 Opened PR [#3](https://github.com/c0dine/invisible-chat/pull/3) in [c0dine/invisible-chat](https://github.com/c0dine/invisible-chat)
+2. ❗️ Opened issue [#2](https://github.com/c0dine/invisible-chat/issues/2) in [c0dine/invisible-chat](https://github.com/c0dine/invisible-chat)
+3. 🗣 Commented on [#1](https://github.com/MaxThakurCodes/Discord-Token-Checker/issues/1) in [MaxThakurCodes/Discord-Token-Checker](https://github.com/MaxThakurCodes/Discord-Token-Checker)
+4. ❗️ Reopened issue [#1](https://github.com/MaxThakurCodes/Discord-Token-Checker/issues/1) in [MaxThakurCodes/Discord-Token-Checker](https://github.com/MaxThakurCodes/Discord-Token-Checker)
+5. ❗️ Closed issue [#1](https://github.com/MaxThakurCodes/Discord-Token-Checker/issues/1) in [MaxThakurCodes/Discord-Token-Checker](https://github.com/MaxThakurCodes/Discord-Token-Checker)
 <!--END_SECTION:activity-->
 
 </details>
