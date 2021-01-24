@@ -53,11 +53,11 @@
  <summary> <strong>Recent Activity</strong> </summary>
 
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#5348](https://github.com/ShareX/ShareX/issues/5348) in [ShareX/ShareX](https://github.com/ShareX/ShareX)
-2. 💪 Opened PR [#3](https://github.com/c0dine/invisible-chat/pull/3) in [c0dine/invisible-chat](https://github.com/c0dine/invisible-chat)
-3. ❗️ Opened issue [#2](https://github.com/c0dine/invisible-chat/issues/2) in [c0dine/invisible-chat](https://github.com/c0dine/invisible-chat)
-4. 🗣 Commented on [#1](https://github.com/MaxThakurCodes/Discord-Token-Checker/issues/1) in [MaxThakurCodes/Discord-Token-Checker](https://github.com/MaxThakurCodes/Discord-Token-Checker)
-5. ❗️ Reopened issue [#1](https://github.com/MaxThakurCodes/Discord-Token-Checker/issues/1) in [MaxThakurCodes/Discord-Token-Checker](https://github.com/MaxThakurCodes/Discord-Token-Checker)
+1. ❗️ Closed issue [#9](https://github.com/WispaServices/Wispa-Images-Reporting/issues/9) in [WispaServices/Wispa-Images-Reporting](https://github.com/WispaServices/Wispa-Images-Reporting)
+2. ❗️ Closed issue [#8](https://github.com/WispaServices/Wispa-Images-Reporting/issues/8) in [WispaServices/Wispa-Images-Reporting](https://github.com/WispaServices/Wispa-Images-Reporting)
+3. ❗️ Closed issue [#7](https://github.com/WispaServices/Wispa-Images-Reporting/issues/7) in [WispaServices/Wispa-Images-Reporting](https://github.com/WispaServices/Wispa-Images-Reporting)
+4. ❗️ Closed issue [#6](https://github.com/WispaServices/Wispa-Images-Reporting/issues/6) in [WispaServices/Wispa-Images-Reporting](https://github.com/WispaServices/Wispa-Images-Reporting)
+5. ❗️ Closed issue [#5](https://github.com/WispaServices/Wispa-Images-Reporting/issues/5) in [WispaServices/Wispa-Images-Reporting](https://github.com/WispaServices/Wispa-Images-Reporting)
 <!--END_SECTION:activity-->
 
 </details>
