@@ -53,11 +53,11 @@
  <summary> <strong>Recent Activity</strong> </summary>
 
 <!--START_SECTION:activity-->
-1. ❗️ Closed issue [#9](https://github.com/WispaServices/Wispa-Images-Reporting/issues/9) in [WispaServices/Wispa-Images-Reporting](https://github.com/WispaServices/Wispa-Images-Reporting)
-2. ❗️ Closed issue [#8](https://github.com/WispaServices/Wispa-Images-Reporting/issues/8) in [WispaServices/Wispa-Images-Reporting](https://github.com/WispaServices/Wispa-Images-Reporting)
-3. ❗️ Closed issue [#7](https://github.com/WispaServices/Wispa-Images-Reporting/issues/7) in [WispaServices/Wispa-Images-Reporting](https://github.com/WispaServices/Wispa-Images-Reporting)
-4. ❗️ Closed issue [#6](https://github.com/WispaServices/Wispa-Images-Reporting/issues/6) in [WispaServices/Wispa-Images-Reporting](https://github.com/WispaServices/Wispa-Images-Reporting)
-5. ❗️ Closed issue [#5](https://github.com/WispaServices/Wispa-Images-Reporting/issues/5) in [WispaServices/Wispa-Images-Reporting](https://github.com/WispaServices/Wispa-Images-Reporting)
+1. ❗️ Closed issue [#6](https://github.com/MaxThakurCodes/friend-finder/issues/6) in [MaxThakurCodes/friend-finder](https://github.com/MaxThakurCodes/friend-finder)
+2. 🗣 Commented on [#6](https://github.com/MaxThakurCodes/friend-finder/issues/6) in [MaxThakurCodes/friend-finder](https://github.com/MaxThakurCodes/friend-finder)
+3. ❗️ Opened issue [#6](https://github.com/MaxThakurCodes/friend-finder/issues/6) in [MaxThakurCodes/friend-finder](https://github.com/MaxThakurCodes/friend-finder)
+4. ❗️ Closed issue [#9](https://github.com/WispaServices/Wispa-Images-Reporting/issues/9) in [WispaServices/Wispa-Images-Reporting](https://github.com/WispaServices/Wispa-Images-Reporting)
+5. ❗️ Closed issue [#8](https://github.com/WispaServices/Wispa-Images-Reporting/issues/8) in [WispaServices/Wispa-Images-Reporting](https://github.com/WispaServices/Wispa-Images-Reporting)
 <!--END_SECTION:activity-->
 
 </details>
