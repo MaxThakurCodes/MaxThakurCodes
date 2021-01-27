@@ -53,11 +53,11 @@
  <summary> <strong>Recent Activity</strong> </summary>
 
 <!--START_SECTION:activity-->
-1. ❗️ Closed issue [#7](https://github.com/MaxThakurCodes/friend-finder/issues/7) in [MaxThakurCodes/friend-finder](https://github.com/MaxThakurCodes/friend-finder)
-2. ❗️ Opened issue [#7](https://github.com/MaxThakurCodes/friend-finder/issues/7) in [MaxThakurCodes/friend-finder](https://github.com/MaxThakurCodes/friend-finder)
-3. ❗️ Closed issue [#6](https://github.com/MaxThakurCodes/friend-finder/issues/6) in [MaxThakurCodes/friend-finder](https://github.com/MaxThakurCodes/friend-finder)
-4. 🗣 Commented on [#6](https://github.com/MaxThakurCodes/friend-finder/issues/6) in [MaxThakurCodes/friend-finder](https://github.com/MaxThakurCodes/friend-finder)
-5. ❗️ Opened issue [#6](https://github.com/MaxThakurCodes/friend-finder/issues/6) in [MaxThakurCodes/friend-finder](https://github.com/MaxThakurCodes/friend-finder)
+1. 🎉 Merged PR [#1](https://github.com/MaxThakurCodes/MaxThakurCodes/pull/1) in [MaxThakurCodes/MaxThakurCodes](https://github.com/MaxThakurCodes/MaxThakurCodes)
+2. 💪 Opened PR [#15](https://github.com/DBots-co/API/pull/15) in [DBots-co/API](https://github.com/DBots-co/API)
+3. ❗️ Closed issue [#7](https://github.com/MaxThakurCodes/friend-finder/issues/7) in [MaxThakurCodes/friend-finder](https://github.com/MaxThakurCodes/friend-finder)
+4. ❗️ Opened issue [#7](https://github.com/MaxThakurCodes/friend-finder/issues/7) in [MaxThakurCodes/friend-finder](https://github.com/MaxThakurCodes/friend-finder)
+5. ❗️ Closed issue [#6](https://github.com/MaxThakurCodes/friend-finder/issues/6) in [MaxThakurCodes/friend-finder](https://github.com/MaxThakurCodes/friend-finder)
 <!--END_SECTION:activity-->
 
 </details>
