@@ -73,6 +73,7 @@
 
 </details>
 
+![](https://hit.yhype.me/github/profile?user_id=25856189)
 [website]: https://maxthakur.com
 [twitter]: https://twitter.com/MaxThakurCodes
 [youtube]: https://www.youtube.com/channel/UCFEgb-Cz19prUMuAsp35xDw
