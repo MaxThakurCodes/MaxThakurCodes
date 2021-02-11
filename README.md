@@ -53,11 +53,11 @@
  <summary> <strong>Recent Activity</strong> </summary>
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#10](https://github.com/RedstonedLife/Hello-World/pull/10) in [RedstonedLife/Hello-World](https://github.com/RedstonedLife/Hello-World)
-2. 💪 Opened PR [#9](https://github.com/RedstonedLife/Hello-World/pull/9) in [RedstonedLife/Hello-World](https://github.com/RedstonedLife/Hello-World)
-3. 🎉 Merged PR [#1](https://github.com/MaxThakurCodes/MaxThakurCodes/pull/1) in [MaxThakurCodes/MaxThakurCodes](https://github.com/MaxThakurCodes/MaxThakurCodes)
-4. 💪 Opened PR [#15](https://github.com/DBots-co/API/pull/15) in [DBots-co/API](https://github.com/DBots-co/API)
-5. ❗️ Closed issue [#7](https://github.com/MaxThakurCodes/friend-finder/issues/7) in [MaxThakurCodes/friend-finder](https://github.com/MaxThakurCodes/friend-finder)
+1. 💪 Opened PR [#12](https://github.com/RedstonedLife/Hello-World/pull/12) in [RedstonedLife/Hello-World](https://github.com/RedstonedLife/Hello-World)
+2. 💪 Opened PR [#11](https://github.com/RedstonedLife/Hello-World/pull/11) in [RedstonedLife/Hello-World](https://github.com/RedstonedLife/Hello-World)
+3. 💪 Opened PR [#10](https://github.com/RedstonedLife/Hello-World/pull/10) in [RedstonedLife/Hello-World](https://github.com/RedstonedLife/Hello-World)
+4. 💪 Opened PR [#9](https://github.com/RedstonedLife/Hello-World/pull/9) in [RedstonedLife/Hello-World](https://github.com/RedstonedLife/Hello-World)
+5. 🎉 Merged PR [#1](https://github.com/MaxThakurCodes/MaxThakurCodes/pull/1) in [MaxThakurCodes/MaxThakurCodes](https://github.com/MaxThakurCodes/MaxThakurCodes)
 <!--END_SECTION:activity-->
 
 </details>
