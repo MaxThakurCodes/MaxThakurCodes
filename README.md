@@ -53,11 +53,11 @@
  <summary> <strong>Recent Activity</strong> </summary>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#27](https://github.com/horsicq/DIE-engine/issues/27) in [horsicq/DIE-engine](https://github.com/horsicq/DIE-engine)
-2. ❗️ Opened issue [#27](https://github.com/horsicq/DIE-engine/issues/27) in [horsicq/DIE-engine](https://github.com/horsicq/DIE-engine)
-3. ❗️ Opened issue [#5391](https://github.com/ShareX/ShareX/issues/5391) in [ShareX/ShareX](https://github.com/ShareX/ShareX)
-4. 🗣 Commented on [#5348](https://github.com/ShareX/ShareX/issues/5348) in [ShareX/ShareX](https://github.com/ShareX/ShareX)
-5. 💪 Opened PR [#12](https://github.com/RedstonedLife/Hello-World/pull/12) in [RedstonedLife/Hello-World](https://github.com/RedstonedLife/Hello-World)
+1. ❗️ Closed issue [#11](https://github.com/Gowixx/Carilana/issues/11) in [Gowixx/Carilana](https://github.com/Gowixx/Carilana)
+2. 🗣 Commented on [#11](https://github.com/Gowixx/Carilana/issues/11) in [Gowixx/Carilana](https://github.com/Gowixx/Carilana)
+3. 🗣 Commented on [#11](https://github.com/Gowixx/Carilana/issues/11) in [Gowixx/Carilana](https://github.com/Gowixx/Carilana)
+4. 🗣 Commented on [#27](https://github.com/horsicq/DIE-engine/issues/27) in [horsicq/DIE-engine](https://github.com/horsicq/DIE-engine)
+5. ❗️ Opened issue [#11](https://github.com/Gowixx/Carilana/issues/11) in [Gowixx/Carilana](https://github.com/Gowixx/Carilana)
 <!--END_SECTION:activity-->
 
 </details>
