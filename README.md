@@ -52,11 +52,11 @@
  <summary> <strong>Recent Activity</strong> </summary>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#11](https://github.com/Gowixx/Carilana/issues/11) in [Gowixx/Carilana](https://github.com/Gowixx/Carilana)
-2. ❗️ Closed issue [#11](https://github.com/Gowixx/Carilana/issues/11) in [Gowixx/Carilana](https://github.com/Gowixx/Carilana)
-3. 🗣 Commented on [#11](https://github.com/Gowixx/Carilana/issues/11) in [Gowixx/Carilana](https://github.com/Gowixx/Carilana)
+1. 💪 Opened PR [#3207](https://github.com/not-ilinked/Anarchy/pull/3207) in [not-ilinked/Anarchy](https://github.com/not-ilinked/Anarchy)
+2. 🗣 Commented on [#11](https://github.com/Gowixx/Carilana/issues/11) in [Gowixx/Carilana](https://github.com/Gowixx/Carilana)
+3. ❗️ Closed issue [#11](https://github.com/Gowixx/Carilana/issues/11) in [Gowixx/Carilana](https://github.com/Gowixx/Carilana)
 4. 🗣 Commented on [#11](https://github.com/Gowixx/Carilana/issues/11) in [Gowixx/Carilana](https://github.com/Gowixx/Carilana)
-5. 🗣 Commented on [#27](https://github.com/horsicq/DIE-engine/issues/27) in [horsicq/DIE-engine](https://github.com/horsicq/DIE-engine)
+5. 🗣 Commented on [#11](https://github.com/Gowixx/Carilana/issues/11) in [Gowixx/Carilana](https://github.com/Gowixx/Carilana)
 <!--END_SECTION:activity-->
 
 </details>
