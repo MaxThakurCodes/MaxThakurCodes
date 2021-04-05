@@ -1,5 +1,5 @@
 ### Hi there, I'm [Max T][website]!
-[<img align="left" alt="MaxThakurCodes | Twitter" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" />][twitter] [<img align="left" alt="MaxThakur31 | Instagram" src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" />][instagram] 
+[<img align="left" alt="MaxTCodes | Twitter" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" />][twitter]
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=maxTCodes&style=flat-square" alt="maxtcodes" /> </p>
  <br>
 
@@ -74,7 +74,6 @@
 
 [website]: https://maxthakur.com
 [twitter]: https://twitter.com/MaxTCodes
-[instagram]: https://instagram.com/MaxThakur31
 [discord]: https://discord.gg/JhGXwFVdsM
 [spotify]: https://open.spotify.com/user/thedj12345678?si=qQXHf6CYSsCZohuN-pqzlw
 ![](https://hit.yhype.me/github/profile?user_id=25856189)
