@@ -1,7 +1,6 @@
-### Hi there, I'm [Max Thakur][website]!
+### Hi there, I'm [Max T][website]!
 [<img align="left" alt="MaxThakurCodes | Twitter" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" />][twitter] [<img align="left" alt="MaxThakur31 | Instagram" src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" />][instagram] 
-[<img align="left" alt="MaxThakurCodes | Youtube" src="https://img.shields.io/badge/youtube-%23FF0000.svg?&style=for-the-badge&logo=youtube&logoColor=white" />][youtube]
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=maxThakurCodes&style=flat-square" alt="maxthakurcodes" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=maxTCodes&style=flat-square" alt="maxtcodes" /> </p>
  <br>
 
 ## I'm a Developer, and Son!
@@ -74,8 +73,7 @@
 </details>
 
 [website]: https://maxthakur.com
-[twitter]: https://twitter.com/MaxThakurCodes
-[youtube]: https://www.youtube.com/channel/UCFEgb-Cz19prUMuAsp35xDw
+[twitter]: https://twitter.com/MaxTCodes
 [instagram]: https://instagram.com/MaxThakur31
 [discord]: https://discord.gg/JhGXwFVdsM
 [spotify]: https://open.spotify.com/user/thedj12345678?si=qQXHf6CYSsCZohuN-pqzlw
