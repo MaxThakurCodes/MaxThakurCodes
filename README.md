@@ -52,11 +52,11 @@
  <summary> <strong>Recent Activity</strong> </summary>
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#3207](https://github.com/not-ilinked/Anarchy/pull/3207) in [not-ilinked/Anarchy](https://github.com/not-ilinked/Anarchy)
-2. 🗣 Commented on [#11](https://github.com/Gowixx/Carilana/issues/11) in [Gowixx/Carilana](https://github.com/Gowixx/Carilana)
-3. ❗️ Closed issue [#11](https://github.com/Gowixx/Carilana/issues/11) in [Gowixx/Carilana](https://github.com/Gowixx/Carilana)
+1. ❗️ Opened issue [#1](https://github.com/Gowixx/okuru-nuker/issues/1) in [Gowixx/okuru-nuker](https://github.com/Gowixx/okuru-nuker)
+2. 🗣 Commented on [#3207](https://github.com/not-ilinked/Anarchy/issues/3207) in [not-ilinked/Anarchy](https://github.com/not-ilinked/Anarchy)
+3. 💪 Opened PR [#3207](https://github.com/not-ilinked/Anarchy/pull/3207) in [not-ilinked/Anarchy](https://github.com/not-ilinked/Anarchy)
 4. 🗣 Commented on [#11](https://github.com/Gowixx/Carilana/issues/11) in [Gowixx/Carilana](https://github.com/Gowixx/Carilana)
-5. 🗣 Commented on [#11](https://github.com/Gowixx/Carilana/issues/11) in [Gowixx/Carilana](https://github.com/Gowixx/Carilana)
+5. ❗️ Closed issue [#11](https://github.com/Gowixx/Carilana/issues/11) in [Gowixx/Carilana](https://github.com/Gowixx/Carilana)
 <!--END_SECTION:activity-->
 
 </details>
