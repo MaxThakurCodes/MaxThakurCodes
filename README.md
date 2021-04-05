@@ -1,4 +1,4 @@
-### Hi there, I'm [Max T][website]!
+### Hi there, I'm [Max][website]!
 [<img align="left" alt="MaxTCodes | Twitter" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" />][twitter]
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=maxTCodes&style=flat-square" alt="maxtcodes" /> </p>
  <br>
