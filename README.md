@@ -52,11 +52,11 @@
  <summary> <strong>Recent Activity</strong> </summary>
 
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#1](https://github.com/Gowixx/okuru-nuker/issues/1) in [Gowixx/okuru-nuker](https://github.com/Gowixx/okuru-nuker)
-2. 🗣 Commented on [#3207](https://github.com/not-ilinked/Anarchy/issues/3207) in [not-ilinked/Anarchy](https://github.com/not-ilinked/Anarchy)
-3. 💪 Opened PR [#3207](https://github.com/not-ilinked/Anarchy/pull/3207) in [not-ilinked/Anarchy](https://github.com/not-ilinked/Anarchy)
-4. 🗣 Commented on [#11](https://github.com/Gowixx/Carilana/issues/11) in [Gowixx/Carilana](https://github.com/Gowixx/Carilana)
-5. ❗️ Closed issue [#11](https://github.com/Gowixx/Carilana/issues/11) in [Gowixx/Carilana](https://github.com/Gowixx/Carilana)
+1. 🎉 Merged PR [#2](https://github.com/MaxTCodes/MaxTCodes/pull/2) in [MaxTCodes/MaxTCodes](https://github.com/MaxTCodes/MaxTCodes)
+2. 🗣 Commented on [#2](https://github.com/MaxTCodes/MaxTCodes/issues/2) in [MaxTCodes/MaxTCodes](https://github.com/MaxTCodes/MaxTCodes)
+3. ❗️ Opened issue [#1](https://github.com/Gowixx/okuru-nuker/issues/1) in [Gowixx/okuru-nuker](https://github.com/Gowixx/okuru-nuker)
+4. 🗣 Commented on [#3207](https://github.com/not-ilinked/Anarchy/issues/3207) in [not-ilinked/Anarchy](https://github.com/not-ilinked/Anarchy)
+5. 💪 Opened PR [#3207](https://github.com/not-ilinked/Anarchy/pull/3207) in [not-ilinked/Anarchy](https://github.com/not-ilinked/Anarchy)
 <!--END_SECTION:activity-->
 
 </details>
