@@ -50,11 +50,11 @@
  <summary> <strong>Recent Activity</strong> </summary>
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#7](https://github.com/vlobb/World-BEST-DDOS-Discord-BOT/pull/7) in [vlobb/World-BEST-DDOS-Discord-BOT](https://github.com/vlobb/World-BEST-DDOS-Discord-BOT)
-2. 🗣 Commented on [#2](https://github.com/vlobb/World-BEST-DDOS-Discord-BOT/issues/2) in [vlobb/World-BEST-DDOS-Discord-BOT](https://github.com/vlobb/World-BEST-DDOS-Discord-BOT)
-3. 🎉 Merged PR [#2](https://github.com/MaxTCodes/MaxTCodes/pull/2) in [MaxTCodes/MaxTCodes](https://github.com/MaxTCodes/MaxTCodes)
-4. 🗣 Commented on [#2](https://github.com/MaxTCodes/MaxTCodes/issues/2) in [MaxTCodes/MaxTCodes](https://github.com/MaxTCodes/MaxTCodes)
-5. ❗️ Opened issue [#1](https://github.com/Gowixx/okuru-nuker/issues/1) in [Gowixx/okuru-nuker](https://github.com/Gowixx/okuru-nuker)
+1. 🗣 Commented on [#7](https://github.com/vlobb/World-BEST-DDOS-Discord-BOT/issues/7) in [vlobb/World-BEST-DDOS-Discord-BOT](https://github.com/vlobb/World-BEST-DDOS-Discord-BOT)
+2. 🗣 Commented on [#6](https://github.com/vlobb/Alterative-system-/issues/6) in [vlobb/Alterative-system-](https://github.com/vlobb/Alterative-system-)
+3. 💪 Opened PR [#6](https://github.com/vlobb/Alterative-system-/pull/6) in [vlobb/Alterative-system-](https://github.com/vlobb/Alterative-system-)
+4. 💪 Opened PR [#7](https://github.com/vlobb/World-BEST-DDOS-Discord-BOT/pull/7) in [vlobb/World-BEST-DDOS-Discord-BOT](https://github.com/vlobb/World-BEST-DDOS-Discord-BOT)
+5. 🗣 Commented on [#2](https://github.com/vlobb/World-BEST-DDOS-Discord-BOT/issues/2) in [vlobb/World-BEST-DDOS-Discord-BOT](https://github.com/vlobb/World-BEST-DDOS-Discord-BOT)
 <!--END_SECTION:activity-->
 
 </details>
