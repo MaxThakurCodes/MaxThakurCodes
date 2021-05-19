@@ -50,11 +50,11 @@
  <summary> <strong>Recent Activity</strong> </summary>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#3](https://github.com/vlobb/Alterative-system-/issues/3) in [vlobb/Alterative-system-](https://github.com/vlobb/Alterative-system-)
-2. 💪 Opened PR [#11](https://github.com/vlobb/World-BEST-DDOS-Discord-BOT/pull/11) in [vlobb/World-BEST-DDOS-Discord-BOT](https://github.com/vlobb/World-BEST-DDOS-Discord-BOT)
-3. 🗣 Commented on [#7](https://github.com/vlobb/World-BEST-DDOS-Discord-BOT/issues/7) in [vlobb/World-BEST-DDOS-Discord-BOT](https://github.com/vlobb/World-BEST-DDOS-Discord-BOT)
-4. 🗣 Commented on [#6](https://github.com/vlobb/Alterative-system-/issues/6) in [vlobb/Alterative-system-](https://github.com/vlobb/Alterative-system-)
-5. 💪 Opened PR [#6](https://github.com/vlobb/Alterative-system-/pull/6) in [vlobb/Alterative-system-](https://github.com/vlobb/Alterative-system-)
+1. 🗣 Commented on [#6](https://github.com/vlobb/Alterative-system-/issues/6) in [vlobb/Alterative-system-](https://github.com/vlobb/Alterative-system-)
+2. 🗣 Commented on [#3](https://github.com/vlobb/Alterative-system-/issues/3) in [vlobb/Alterative-system-](https://github.com/vlobb/Alterative-system-)
+3. 💪 Opened PR [#11](https://github.com/vlobb/World-BEST-DDOS-Discord-BOT/pull/11) in [vlobb/World-BEST-DDOS-Discord-BOT](https://github.com/vlobb/World-BEST-DDOS-Discord-BOT)
+4. 🗣 Commented on [#7](https://github.com/vlobb/World-BEST-DDOS-Discord-BOT/issues/7) in [vlobb/World-BEST-DDOS-Discord-BOT](https://github.com/vlobb/World-BEST-DDOS-Discord-BOT)
+5. 🗣 Commented on [#6](https://github.com/vlobb/Alterative-system-/issues/6) in [vlobb/Alterative-system-](https://github.com/vlobb/Alterative-system-)
 <!--END_SECTION:activity-->
 
 </details>
