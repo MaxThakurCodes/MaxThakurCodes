@@ -69,6 +69,13 @@
 </a>
 
 </details>
+<details>
+<summary> <strong>Discord</strong> </summary>
+ <p align="center">
+  <img src="https://discord.c99.nl/widget/theme-4/813325026320711700.png" />
+ </p>
+
+</details>
 
 [website]: https://maxthakur.com
 [twitter]: https://twitter.com/MaxTCodes
