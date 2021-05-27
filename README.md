@@ -8,10 +8,6 @@
 - 2021 Goals: To fully learn and understand how Assembly works!
 - Fun Fact: I started coding when I was 8.
 
-### Connect with me:
-
-[<img align="left" alt="maxthakur.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
-[<img align="left" alt="Discord Server | discord.gg/zxtTyVS" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.4.1/icons/discord.svg" />][discord]
 
 <br>
 
@@ -77,8 +73,6 @@
 
 </details>
 
-[website]: https://maxthakur.com
 [twitter]: https://twitter.com/MaxTCodes
-[discord]: https://discord.gg/JhGXwFVdsM
 [spotify]: https://open.spotify.com/user/thedj12345678?si=qQXHf6CYSsCZohuN-pqzlw
 ![](https://hit.yhype.me/github/profile?user_id=25856189)
