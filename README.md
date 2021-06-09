@@ -46,11 +46,11 @@
  <summary> <strong>Recent Activity</strong> </summary>
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#14](https://github.com/ItsDrike/rickchurch/pull/14) in [ItsDrike/rickchurch](https://github.com/ItsDrike/rickchurch)
-2. 🗣 Commented on [#14](https://github.com/ItsDrike/rickchurch/issues/14) in [ItsDrike/rickchurch](https://github.com/ItsDrike/rickchurch)
-3. 💪 Opened PR [#14](https://github.com/ItsDrike/rickchurch/pull/14) in [ItsDrike/rickchurch](https://github.com/ItsDrike/rickchurch)
-4. 🎉 Merged PR [#4](https://github.com/ItsDrike/rickchurch/pull/4) in [ItsDrike/rickchurch](https://github.com/ItsDrike/rickchurch)
-5. 💪 Opened PR [#4](https://github.com/ItsDrike/rickchurch/pull/4) in [ItsDrike/rickchurch](https://github.com/ItsDrike/rickchurch)
+1. 🎉 Merged PR [#19](https://github.com/ItsDrike/rickchurch/pull/19) in [ItsDrike/rickchurch](https://github.com/ItsDrike/rickchurch)
+2. 🎉 Merged PR [#14](https://github.com/ItsDrike/rickchurch/pull/14) in [ItsDrike/rickchurch](https://github.com/ItsDrike/rickchurch)
+3. 🗣 Commented on [#14](https://github.com/ItsDrike/rickchurch/issues/14) in [ItsDrike/rickchurch](https://github.com/ItsDrike/rickchurch)
+4. 💪 Opened PR [#14](https://github.com/ItsDrike/rickchurch/pull/14) in [ItsDrike/rickchurch](https://github.com/ItsDrike/rickchurch)
+5. 🎉 Merged PR [#4](https://github.com/ItsDrike/rickchurch/pull/4) in [ItsDrike/rickchurch](https://github.com/ItsDrike/rickchurch)
 <!--END_SECTION:activity-->
 
 </details>
