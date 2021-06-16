@@ -46,11 +46,11 @@
  <summary> <strong>Recent Activity</strong> </summary>
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#15](https://github.com/DortDev/dortware-dev-1.5.1/pull/15) in [DortDev/dortware-dev-1.5.1](https://github.com/DortDev/dortware-dev-1.5.1)
-2. 💪 Opened PR [#14](https://github.com/DortDev/dortware-dev-1.5.1/pull/14) in [DortDev/dortware-dev-1.5.1](https://github.com/DortDev/dortware-dev-1.5.1)
-3. 🎉 Merged PR [#19](https://github.com/ItsDrike/rickchurch/pull/19) in [ItsDrike/rickchurch](https://github.com/ItsDrike/rickchurch)
-4. 🎉 Merged PR [#14](https://github.com/ItsDrike/rickchurch/pull/14) in [ItsDrike/rickchurch](https://github.com/ItsDrike/rickchurch)
-5. 🗣 Commented on [#14](https://github.com/ItsDrike/rickchurch/issues/14) in [ItsDrike/rickchurch](https://github.com/ItsDrike/rickchurch)
+1. 💪 Opened PR [#16](https://github.com/DortDev/dortware-dev-1.5.1/pull/16) in [DortDev/dortware-dev-1.5.1](https://github.com/DortDev/dortware-dev-1.5.1)
+2. 💪 Opened PR [#15](https://github.com/DortDev/dortware-dev-1.5.1/pull/15) in [DortDev/dortware-dev-1.5.1](https://github.com/DortDev/dortware-dev-1.5.1)
+3. 💪 Opened PR [#14](https://github.com/DortDev/dortware-dev-1.5.1/pull/14) in [DortDev/dortware-dev-1.5.1](https://github.com/DortDev/dortware-dev-1.5.1)
+4. 🎉 Merged PR [#19](https://github.com/ItsDrike/rickchurch/pull/19) in [ItsDrike/rickchurch](https://github.com/ItsDrike/rickchurch)
+5. 🎉 Merged PR [#14](https://github.com/ItsDrike/rickchurch/pull/14) in [ItsDrike/rickchurch](https://github.com/ItsDrike/rickchurch)
 <!--END_SECTION:activity-->
 
 </details>
