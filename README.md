@@ -46,11 +46,11 @@
  <summary> <strong>Recent Activity</strong> </summary>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#17](https://github.com/DortDev/dortware-dev-1.5.1/issues/17) in [DortDev/dortware-dev-1.5.1](https://github.com/DortDev/dortware-dev-1.5.1)
-2. 🎉 Merged PR [#2](https://github.com/MaxTCodes/dortware-dev-1.5.1/pull/2) in [MaxTCodes/dortware-dev-1.5.1](https://github.com/MaxTCodes/dortware-dev-1.5.1)
-3. 🗣 Commented on [#2](https://github.com/MaxTCodes/dortware-dev-1.5.1/issues/2) in [MaxTCodes/dortware-dev-1.5.1](https://github.com/MaxTCodes/dortware-dev-1.5.1)
-4. 🎉 Merged PR [#1](https://github.com/MaxTCodes/dortware-dev-1.5.1/pull/1) in [MaxTCodes/dortware-dev-1.5.1](https://github.com/MaxTCodes/dortware-dev-1.5.1)
-5. 🗣 Commented on [#1](https://github.com/MaxTCodes/dortware-dev-1.5.1/issues/1) in [MaxTCodes/dortware-dev-1.5.1](https://github.com/MaxTCodes/dortware-dev-1.5.1)
+1. 💪 Opened PR [#21](https://github.com/DortDev/dortware-dev-1.5.1/pull/21) in [DortDev/dortware-dev-1.5.1](https://github.com/DortDev/dortware-dev-1.5.1)
+2. 🗣 Commented on [#17](https://github.com/DortDev/dortware-dev-1.5.1/issues/17) in [DortDev/dortware-dev-1.5.1](https://github.com/DortDev/dortware-dev-1.5.1)
+3. 🎉 Merged PR [#2](https://github.com/MaxTCodes/dortware-dev-1.5.1/pull/2) in [MaxTCodes/dortware-dev-1.5.1](https://github.com/MaxTCodes/dortware-dev-1.5.1)
+4. 🗣 Commented on [#2](https://github.com/MaxTCodes/dortware-dev-1.5.1/issues/2) in [MaxTCodes/dortware-dev-1.5.1](https://github.com/MaxTCodes/dortware-dev-1.5.1)
+5. 🎉 Merged PR [#1](https://github.com/MaxTCodes/dortware-dev-1.5.1/pull/1) in [MaxTCodes/dortware-dev-1.5.1](https://github.com/MaxTCodes/dortware-dev-1.5.1)
 <!--END_SECTION:activity-->
 
 </details>
